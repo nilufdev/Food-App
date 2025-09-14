@@ -62,18 +62,7 @@ class MyHomePage extends StatelessWidget {
                 borderRadius:BorderRadius.circular(50),
               ),
               ),),),
-              /*Container(
-                height: 38,
-                margin: EdgeInsets.only(left: 20, top: 32, right: 20, bottom: 8),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: [
-                    
-                    Text('Besom.', style: TextStyle(fontSize: 32, fontWeight: FontWeight.w800)),
-                    //Image.network('https://flutter4fun.com/wp-content/uploads/2021/09/bag.png')
-                  ],
-                ),
-              ),*/
+              
               Expanded(
                 child: ListView(
                   children: [ 
@@ -83,27 +72,7 @@ class MyHomePage extends StatelessWidget {
                   ],
                 ),
                 
-                /*Center(
-                  child: ListView.builder(
-                    itemCount: 4,
-                    itemBuilder: (context, index) { 
-                return MyBox();      
-                      }
-                  ),
-                  /*child: ListView.builder(
-                    padding: EdgeInsets.only(left: 20, top: 20, right: 20, bottom: 100),
-                    itemBuilder: (context, index) {
-                      final juice = juiceList[index];
-                      return JuiceWidget(
-                        juice,
-                        onTap: () {
-                          Navigator.of(context).push(MaterialPageRoute(builder: (context) => JuiceDetailsPage(juice)));
-                        },
-                      );
-                    },
-                    itemCount: juiceList.length,
-                  ),*/
-                ),*/
+                
               )
             ],
           ),
