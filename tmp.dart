@@ -1,6 +1,4 @@
 import 'dart:ui';
-
-
 import 'package:flutter/material.dart';
 
 void main() {
@@ -11,14 +9,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      theme: ThemeData(brightness: Brightness.light),
       debugShowCheckedModeBanner: false,
-      home: MyHomePage(),
+      home: HomePage(),
     );
   }
 }
 
-class MyHomePage extends StatelessWidget {
+class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
