@@ -1,29 +1,32 @@
+final List<Color> colors = [
+  Colors.yellow,
+  Colors.blue,
+  Colors.green.shade400,
+  Colots.red,
+];
+
 final List<Map<String, Object>> foods = [
   {
-    'bgColor': '',
-    'title': '',
-    'subtitle': '',
+    'title': 'Cheese Burger',
+    'subtitle': 'Burger',
     'price', 80,
     'imgPath': '',
   },
   {
-    'bgColor': '',
-    'title': '',
-    'subtitle': '',
+    'title': 'Ice Cream Bucket',
+    'subtitle': 'Cold',
     'price', 120,
     'imgPath': '',
   },
   {
-    'bgColor': '',
-    'title': '',
-    'subtitle': '',
+    'title': 'Cup Cake',
+    'subtitle': 'Cake',
     'price', 50,
     'imgPath': '',
   },
   {
-    'bgColor': '',
-    'title': '',
-    'subtitle': '',
+    'title': 'Iced Coffee',
+    'subtitle': 'Cold',
     'price', 100,
     'imgPath': '',
   },
