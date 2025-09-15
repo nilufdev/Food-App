@@ -32,16 +32,23 @@ class FoodDetails extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.blue.shade200,
-      body: Expanded(child:ListView(
+      body: Column(
         
         children: [
+          
           Container(
-            //color: Colors.
-            margin: EdgeInsets.only(top:80, right:40),
+            width: double.infinity,
+            //color: Colors.red,
+            margin: EdgeInsets.only(top:60, left:0),
             
-            child:Image.network(
-            'https://raw.githubusercontent.com/nilufdev/Food-App/refs/heads/main/images/ice-cream.png', height: 200,
-          ),),
+            child:Stack(
+              children: [Image.network(
+           'https://raw.githubusercontent.com/nilufdev/Food-App/refs/heads/main/images/ice-cream.png', height: 200,
+          ),
+          
+            ],
+          ),
+          ),
           Expanded(child: 
                    ClipRRect(borderRadius: BorderRadius.only(topLeft:
                                                              Radius.circular(30),topRight:Radius.circular(30),),child:Container (
@@ -60,7 +67,7 @@ class FoodDetails extends StatelessWidget {
                   ],
                 ),
                 Row(children:[Text('Cold', style: TextStyle(color: Colors.grey),),
-            SizedBox(width:10), Text('4.3'),       Icon(Icons.star_outline, size:20),         
+            SizedBox(width:10), Text('4.3'),       Icon(Icons.star,color:Colors.blue, size:20),         
                              ]),
                 
               SizedBox(height: 30),
@@ -100,7 +107,7 @@ class FoodDetails extends StatelessWidget {
           ],),),),
         ),
       ],
-    ),),);
+    ),);
   }
 }
 
