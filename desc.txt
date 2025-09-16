@@ -1,0 +1,33 @@
+Cheese Burger
+Rating: 4.6 ★
+Description
+A classic cheeseburger, built with a juicy, flame-grilled beef patty, melted American cheese, crisp lettuce, ripe tomatoes, and tangy pickles, all nestled in a toasted sesame seed bun. A simple yet satisfying masterpiece, perfect for any occasion.
+Cup Cake
+Rating: 4.4 ★
+Description
+A moist and fluffy vanilla cupcake topped with a swirl of rich, creamy buttercream frosting and a sprinkle of colorful jimmies. This perfect little treat is a bite of pure joy, designed to brighten your day.
+Iced Coffee
+Rating: 4.7 ★
+Description
+A refreshing iced coffee made with freshly brewed, bold espresso and a splash of milk, all poured over ice. This cool and invigorating drink offers a rich flavor and a smooth finish, making it the ideal pick-me-up.
+French Fries
+Rating: 4.5 ★
+Description
+Crispy, golden-brown french fries with a fluffy interior and a perfectly salted exterior. These delicious fries are the ultimate side dish, offering a satisfying crunch and a savory flavor that pairs well with just about anything.
+Cheeseburger
+ * Fat: 25.0%
+ * Calories: 30.0%
+ * Sugar: 5.0%
+Cupcake
+ * Fat: 18.0%
+ * Calories: 22.0%
+ * Sugar: 35.0%
+Iced Coffee
+ * Fat: 5.0%
+ * Calories: 10.0%
+ * Sugar: 12.0%
+French Fries
+ * Fat: 20.0%
+ * Calories: 25.0%
+ * Sugar: 2.0%
+   
