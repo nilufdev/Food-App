@@ -8,9 +8,19 @@ class _Capsule extends State<Capsule> {
       () {
         setState(() {
           _width = MediaQuery.of(context).size.width * (widget.percentage / 100);
-          
         });
       }
     );
   }
 }
+
+// ...
+
+AnimatedContainer(
+  duration: Duration(milliseconds: 500),
+  child: Container(
+    height: 20,
+    width: _width,
+    color: widget.fillColor,
+  ),
+),
