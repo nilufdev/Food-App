@@ -1,33 +1,20 @@
-Cheesecake
-Rating: 4.8 ★
-Description
-A slice of pure indulgence, featuring a rich, velvety-smooth cream cheese filling with a hint of vanilla, all resting on a buttery graham cracker crust. This classic dessert is the perfect balance of creamy and tangy, providing a luxurious and satisfying end to any meal.
-Tacos
+Cheese Burger
 Rating: 4.6 ★
 Description
-A pair of authentic street-style tacos with your choice of savory carne asada or tender shredded chicken, topped with fresh diced onions, cilantro, and a squeeze of lime. Served on warm corn tortillas, these tacos offer a burst of vibrant, traditional flavors in every bite.
-Donuts
+A mouthwatering classic, this cheeseburger features a juicy, perfectly seasoned beef patty grilled to perfection. It's topped with a slice of rich, melted American cheese, crisp lettuce, a ripe tomato, and tangy pickles, all served on a soft, toasted brioche bun. It's a satisfying, timeless meal that hits the spot every time.
+Cup Cake
+Rating: 4.4 ★
+Description
+This isn't just a cupcake—it's a little piece of happiness. Our vanilla cupcake is baked to be incredibly moist and tender, and it's generously topped with a swirl of velvety, homemade buttercream frosting. A light sprinkle of colorful confetti adds a festive touch to this sweet, delightful treat.
+Iced Coffee
+Rating: 4.7 ★
+Description
+Wake up your senses with this refreshing iced coffee. We start with a shot of bold, freshly brewed espresso, then pour it over ice and add a splash of your preferred milk for a smooth, creamy finish. It’s the perfect cool, invigorating drink to get you through your day.
+French Fries
 Rating: 4.5 ★
 Description
-A dozen freshly baked donuts, featuring an assortment of classic flavors. You'll find a fluffy glazed donut, a rich chocolate frosted, and a sweet strawberry-sprinkled one. Each donut is a soft, airy treat, guaranteed to satisfy your sweet tooth.
-Sushi
-Rating: 4.9 ★
-Description
-A chef's selection of fresh, high-quality sushi. This platter includes classic California rolls, spicy tuna rolls, and delicate pieces of salmon and tuna nigiri. Each piece is a masterpiece of flavor and texture, highlighting the fresh, clean taste of the seafood.
-Cheesecake
- * Fat: 30.0%
- * Calories: 35.0%
- * Sugar: 25.0%
-Tacos
- * Fat: 20.0%
- * Calories: 28.0%
- * Sugar: 3.0%
-Donuts
- * Fat: 25.0%
- * Calories: 30.0%
- * Sugar: 40.0%
-Sushi
- * Fat: 10.0%
- * Calories: 15.0%
- * Sugar: 8.0%
+These aren't just any fries—they're the ultimate side dish. Our french fries are cut from premium potatoes, fried until they're perfectly golden and crispy on the outside, with a fluffy, tender inside. Lightly salted, they have a satisfying crunch and a savory flavor that pairs well with just about anything.
+
+
+
 Trio Treat Bucket, a delightful combination of three classic ice cream flavors. Dive into the sweet and tangy notes of Strawberry, savor the rich and creamy goodness of Chocolate, and enjoy the caramel-like sweetness of Butterscotch. Perfect for sharing or for treating yourself to a little bit of everything
