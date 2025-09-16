@@ -1,0 +1,33 @@
+Cheesecake
+Rating: 4.8 ★
+Description
+A slice of pure indulgence, featuring a rich, velvety-smooth cream cheese filling with a hint of vanilla, all resting on a buttery graham cracker crust. This classic dessert is the perfect balance of creamy and tangy, providing a luxurious and satisfying end to any meal.
+Tacos
+Rating: 4.6 ★
+Description
+A pair of authentic street-style tacos with your choice of savory carne asada or tender shredded chicken, topped with fresh diced onions, cilantro, and a squeeze of lime. Served on warm corn tortillas, these tacos offer a burst of vibrant, traditional flavors in every bite.
+Donuts
+Rating: 4.5 ★
+Description
+A dozen freshly baked donuts, featuring an assortment of classic flavors. You'll find a fluffy glazed donut, a rich chocolate frosted, and a sweet strawberry-sprinkled one. Each donut is a soft, airy treat, guaranteed to satisfy your sweet tooth.
+Sushi
+Rating: 4.9 ★
+Description
+A chef's selection of fresh, high-quality sushi. This platter includes classic California rolls, spicy tuna rolls, and delicate pieces of salmon and tuna nigiri. Each piece is a masterpiece of flavor and texture, highlighting the fresh, clean taste of the seafood.
+Cheesecake
+ * Fat: 30.0%
+ * Calories: 35.0%
+ * Sugar: 25.0%
+Tacos
+ * Fat: 20.0%
+ * Calories: 28.0%
+ * Sugar: 3.0%
+Donuts
+ * Fat: 25.0%
+ * Calories: 30.0%
+ * Sugar: 40.0%
+Sushi
+ * Fat: 10.0%
+ * Calories: 15.0%
+ * Sugar: 8.0%
+Trio Treat Bucket, a delightful combination of three classic ice cream flavors. Dive into the sweet and tangy notes of Strawberry, savor the rich and creamy goodness of Chocolate, and enjoy the caramel-like sweetness of Butterscotch. Perfect for sharing or for treating yourself to a little bit of everything
